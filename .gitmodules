@@ -1,0 +1,4 @@
+[submodule "src/shared-libraries"]
+	path = src/shared-libraries
+	url = https://git.local.sepa-cyber.com/microservices/shared-microservices/shared-library.git
+	branch = release/stagingV2
