@@ -3,13 +3,6 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/tindev?style=for-the-badge">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/tindev?style=for-the-badge">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/diegomais/tindev?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diegomais/tindev?style=for-the-badge">
-</p>
-
-<p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#seat-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#thinking-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,7 +20,7 @@ Extras:
 - DevOps/instrumentation
   - [OpenTelemetry](https://opentelemetry.io)
   - [Docker](https://www.docker.com)
-  - [Git] (https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+  - [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
 ## :seat: Getting started
 
