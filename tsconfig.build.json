@@ -28,7 +28,7 @@
       "@view-adapter": ["microservices/file-server/view-adapter/*"],
       "@views": ["microservices/file-server/view-adapter/imp/dto/views/*"],
       "@exceptions": ["shared-libraries/core/exceptions"],
-      "@shared-libraries/*": ["shared-libraries/*"],
+      "@shared-libraries/*": ["shared-library/*"],
       "@shared-config/*": ["shared-config/*"]
     }
   },

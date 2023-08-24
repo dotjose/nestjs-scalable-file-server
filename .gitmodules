@@ -1,4 +1,4 @@
-[submodule "src/shared-libraries"]
+[submodule "src/shared-library"]
 	path = src/shared-libraries
 	url = https://github.com/dotjose/shared-library.git
 	branch = master

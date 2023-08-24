@@ -16,51 +16,22 @@
     "outDir": "./dist",
     "baseUrl": "./src",
     "paths": {
-      "@file-server/*": [
-        "microservices/file-server/*"
-      ],
-      "@application/*": [
-        "microservices/file-server/application/*"
-      ],
+      "@file-server/*": ["microservices/file-server/*"],
+      "@application/*": ["microservices/file-server/application/*"],
       "@domain-abstractions/*": [
         "microservices/file-server/domain-abstractions/*"
       ],
-      "@infrastructure/*": [
-        "microservices/file-server/infrastructure/*"
-      ],
-      "@model/*": [
-        "microservices/file-server/model/*"
-      ],
-      "@ports/*": [
-        "microservices/file-server/ports/*"
-      ],
-      "@presentation/*": [
-        "microservices/file-server/presentation/*"
-      ],
-      "@view-adapter": [
-        "microservices/file-server/view-adapter/*"
-      ],
-      "@views": [
-        "microservices/file-server/view-adapter/imp/dto/views/*"
-      ],
-      "@exceptions": [
-        "shared-libraries/core/exceptions"
-      ],
-      "@shared-libraries/*": [
-        "shared-libraries/*"
-      ],
-      "@shared-config/*": [
-        "shared-config/*"
-      ]
+      "@infrastructure/*": ["microservices/file-server/infrastructure/*"],
+      "@model/*": ["microservices/file-server/model/*"],
+      "@ports/*": ["microservices/file-server/ports/*"],
+      "@presentation/*": ["microservices/file-server/presentation/*"],
+      "@view-adapter": ["microservices/file-server/view-adapter/*"],
+      "@views": ["microservices/file-server/view-adapter/imp/dto/views/*"],
+      "@exceptions": ["shared-library/core/exceptions"],
+      "@shared-libraries/*": ["shared-library/*"],
+      "@shared-config/*": ["shared-config/*"]
     }
   },
-  "include": [
-    "src/**/*"
-  ],
-  "exclude": [
-    "node_modules",
-    "**/*.spec.ts",
-    "dist",
-    "build"
-  ]
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts", "dist", "build"]
 }
