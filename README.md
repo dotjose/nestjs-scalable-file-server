@@ -28,15 +28,15 @@ These instructions will get you a copy of the full project up and running on you
 
 #### Setting up the development environment
 
-The project is developed using Git. Git is a free and open source distributed version control system. [Download Git](https://git-scm.com/downloads).
+The project is developed using Git. Git is a free and open-source distributed version control system. [Download Git](https://git-scm.com/downloads).
 
-The project can be built with npm or Yarn, so choose one of the approach bellow in case you don't have any installed on your system.
+The project can be built with npm or Yarn, so choose one of the approaches below if you don't have any installed on your system.
 
-- **npm** is distributed with Node.js which means that when you download Node.js, you automatically get npm installed on your computer. [Download Node.js](https://nodejs.org/en/download/).
+- **npm** is distributed with Node.js, so when you download Node.js, you automatically get npm installed on your computer. [Download Node.js](https://nodejs.org/en/download/).
 
 ### Cloning the project
 
-You can obtain the project by running the instruction bellow on your terminal:
+You can obtain the project by running the instructions bellow on your terminal:
 
 `git clone --recurse-submodules https://github.com/dotjose/nestjs-scalable-file-server.git`
 
@@ -45,11 +45,11 @@ You can obtain the project by running the instruction bellow on your terminal:
 Run the instructions below
 
 1. `npm install`
-2. `npm run`
+2. `npm run start`
 
 or development server can be initiated
 
-1. `npm run:dev`
+1. `npm run start:dev`
 
 ## :thinking: How to contribute
 
